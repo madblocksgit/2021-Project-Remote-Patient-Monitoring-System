@@ -15,9 +15,9 @@ const char* ssid = "Madhu P";
 const char* password = "madhu2022";
 
 //Your Domain name with URL path or IP address with path
-String serverageName = "http://madblocks.tech/projects/harshi/ageread.php";
-String servergenderName = "http://madblocks.tech/projects/harshi/genderread.php";
-String serverpulseName = "http://madblocks.tech/projects/harshi/update.php";
+String serverageName = "http://madblocks.tech/XXXXXXX/XXXXXXXX/XXXXXX";
+String servergenderName = "http://madblocks.tech/XXXXXXX/XXXXXXXX/XXXXXX";
+String serverpulseName = "http://madblocks.tech/XXXXXXX/XXXXXXXX/XXXXXX";
 
 int age=0;
 int gender=0;
